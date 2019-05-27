@@ -1,0 +1,12 @@
+DATABASE NAME :  mydb1
+TABLE NAME:  addd
+FIELDS:  id(primary key with auto increment), name, age
+
+------------------------------------
+
+1-> config.php
+2-> add.php
+3-> list.php
+4-> edit.php
+5-> delete.php
+
